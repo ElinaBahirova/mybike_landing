@@ -1,7 +1,7 @@
 # MyBike landing page
 ## Overview
 
-[MyBike landing page](https://elinabahirova.github.io/mybike-landing/) implemented according to [Figma design](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1).
+[MyBike landing page](https://elinabahirova.github.io/mybike_landing/) implemented according to [Figma design](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1).
 
 Page adapted to the following screens:
 - Desktop 1024px
